@@ -10,7 +10,7 @@ function fish() {
         bottom: 0,
       }),
       $("footer").append('<div class="container" id="jsi-flying-fish-container"></div>'),
-      $("body").append('<script src="https://cdn.jsdelivr.net/gh/chaoyong213/demo@2.0/fish.js"></script>'),
+      $("body").append('<script src="https://cdn.jsdelivr.net/gh/chaoyong213/demo/fish.js"></script>'),
       this
     );
 }
